@@ -1,0 +1,34 @@
+[
+    {
+        "name": "WATER FALSE MOVE",
+        "text": "=== WATER FALSE MOVE ==="
+    },
+    {
+        "name": "LOOK SECOND GAZE",
+        "text": "=== LOOK SECOND GAZE ==="
+    },
+    {
+        "name": "LOOK FIRST GAZE",
+        "text": "=== LOOK FIRST GAZE ==="
+    },
+    {
+        "name": "SPREAD 1",
+        "text": "=== SPREAD 1 ==="
+    },
+    {
+        "name": "SPREAD 2",
+        "text": "=== SPREAD 2 ==="
+    },
+    {
+        "name": "FIRE FALSE STAY",
+        "text": "=== FIRE FALSE STAY ==="
+    },
+    {
+        "name": "MOVE",
+        "text": "=== MOVE ==="
+    },
+    {
+        "name": "teste",
+        "text": "teste!!!!"
+    }
+]

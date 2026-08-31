@@ -1,0 +1,30 @@
+[
+    {
+        "name": "SPREAD 2",
+        "message": "=== SPREAD 2 ==="
+    },
+    {
+        "name": "FIRE FALSE STAY",
+        "message": "=== FIRE FALSE STAY ==="
+    },
+    {
+        "name": "SPREAD 1",
+        "message": "=== SPREAD 1 ==="
+    },
+    {
+        "name": "LOOK FIRST GAZE",
+        "message": "=== LOOK FIRST GAZE ==="
+    },
+    {
+        "name": "WATER FALSE MOVE",
+        "message": "=== WATER FALSE MOVE ==="
+    },
+    {
+        "name": "LOOK SECOND GAZE",
+        "message": "=== LOOK SECOND GAZE ==="
+    },
+    {
+        "name": "MOVE",
+        "message": "=== MOVE ==="
+    }
+]
